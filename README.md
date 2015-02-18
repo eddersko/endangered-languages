@@ -63,7 +63,6 @@ Looking for resources for code languages? Take a look at [the awesome collection
     - [Migmaq](#migmaq)
     - [Minderico](#minderico)
     - [Oromo](#oromo)
-    - [Pomo](#pomo)
     - [Quechua](#quechua)
     - [Sami](#sami)
     - [Scottish Gaelic](#scottish-gaelic)
@@ -97,6 +96,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Dict.cc](http://www.dict.cc/) An exlimpar model of a successful bilingual (German-English) dictionary as it has grown from a hobby to a business employing 22 people. 
 * [Koasati Digital Dictionary](http://koasati.wm.edu/) The Coushatta Tribe of Louisana
 * [Ojibwe People's Dictionary](http://ojibwe.lib.umn.edu/)
+* [Swarthmore Talking Dictionaries] (http://talkingdictionary.swarthmore.edu/) Talking dictionaries for a large array of languages including Tuvan, Siletz, Matukar Panau, etc.
 * [Talking dictionary of Khinina-ang Bontok: The language spoken in Guina-ang, Bontoc, Mountain Province, the Philippines.](http://htq.minpaku.ac.jp/databases/bontok/) _Notice that this dictionary is best viewed with Firefox 3.0 on Windows XP... what is the lifespan of these works which we create and how do we create a sustainable infrastructure? this has really been the bane of the digital age and many academics are not able to overcome this challenge._
 * [The Yurok Langauge Project](http://linguistics.berkeley.edu/~yurok/web/search.php)
 * [Yami Dictionary](http://yamibow.cs.pu.edu.tw/index_en.htm)
@@ -264,6 +264,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [AndroidProductionExperiment](https://github.com/OpenSourceFieldlinguistics/AndroidProductionExperiment) Android App to run perception experiments 
 * [Bevara](https://github.com/KentonMurray/bevara) Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages
 * [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz
+* [Template for Word-Learning App](https://github.com/eddersko/android-template) An open-source template for a word-learning app featuring a quiz.
 
 # Chrome Extensions
 
@@ -452,12 +453,6 @@ _orm :: Oromo_
 
 * [hornmorpho](http://www.cs.indiana.edu/~gasser/research/software.html) morphological analysis and generation of amharic and oromo verbs and nouns
 and tigrinya verbs
-
-###Pomo
-
-_pmm :: Pomo_
-
-* [PomoDictionary](https://github.com/eddersko/PomoDictionary) This language app is part of a project to archive and make available materials on the Northern Pomo language, collected over 25 years.
 
 ###Quechua
 
